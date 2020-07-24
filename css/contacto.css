@@ -8,21 +8,28 @@ and open the template in the editor.
     Author     : nicolau
 */
 
-li {
+@charset "UTF-8";
+
+p {
+    text-align: justify;
+    text-indent: 15px;
+}
+
+article li {
     color: #4aa3da;
 }
 
-a {
+article a {
     text-decoration: none;    
 }
 
-li:hover {
+article li:hover {
     background: #10ee10; 
     color: #ffffff; 
     padding: 5px;
 }
 
-h1 {
+article h1 {
     background-color: #4aa3da; 
     padding: 10px; 
     color: white;
