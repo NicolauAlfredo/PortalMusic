@@ -10,15 +10,12 @@ and open the template in the editor.
 
 @charset "UTF-8";
 
-li {
-    color: #4aa3da;
-}
 
 a {
     text-decoration: none;    
 }
 
-li:hover {
+aside li:hover {
     background: #10ee10; 
     color: #ffffff; 
     padding: 5px;
