@@ -36,8 +36,6 @@ ul#album-fotos {
 
 ul#album-fotos a {
     color: #ffffff;
-    text-decoration: none;
-    padding: 5px;
 }
 
 ul#album-fotos a:hover {
@@ -78,48 +76,71 @@ ul#album-fotos li:hover span{
 ul#album-fotos li#foto01 {
     background: url('../img/diana-lima-bagagem.jpg') no-repeat;
     background-position: 50% 50%;
-    background-size: 200px 200px;
+    background-size: 250px 250px;
     background-color: #ffffff;
 }
 
 ul#album-fotos li#foto01:hover {
     background-position: 0px;
-    background-size: 200px 200px;
+    background-size: 250px 250px;
 }
 
 ul#album-fotos li#foto02 {
     background: url('../img/drake-tossie-slide.jpg') no-repeat;
     background-position: 50% 50%;
-    background-size: 200px 200px;
+    background-size: 250px 250px;
     background-color: #ffffff;
 }
 
 ul#album-fotos li#foto02:hover {
     background-position: 0px;
-    background-size: 200px 200px;
+    background-size: 250px 250px;
 }
 
 ul#album-fotos li#foto03 {
     background: url('../img/edgar-domingos-adoco.jpeg') no-repeat;
     background-position: 50% 50%;
-    background-size: 200px 200px;
+    background-size: 250px 250px;
     background-color: #ffffff;
 }
 
 ul#album-fotos li#foto03:hover {
     background-position: 0px;
-    background-size: 200px 200px;
+    background-size: 250px 250px;
 }
 
 ul#album-fotos li#foto04 {
     background: url('../img/nenny-21.jpg') no-repeat;
     background-position: 50% 50%;
-    background-size: 200px 200px;
+    background-size: 250px 250px;
     background-color: #ffffff;
 }
 
 ul#album-fotos li#foto04:hover {
     background-position: 0px;
-    background-size: 200px 200px;
+    background-size: 250px 250px;
 }
 
+ul#album-fotos li#foto05 {
+    background: url('../img/mobbers.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 250px 250px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#foto05:hover {
+    background-position: 0px;
+    background-size: 250px 250px;
+}
+
+ul#album-fotos li#foto06 {
+    background: url('../img/edgar-domingos-minha.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 250px 250px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#foto06:hover {
+    background-position: 0px;
+    background-size: 250px 250px;
+}
